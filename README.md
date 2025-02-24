@@ -1,6 +1,6 @@
 # TODO APP
 
-I tried to make this as my second ever webdev project using React,
+I my second ever webdev project using React,
 with as little help from the tutorials I was using as possible. Referring to it only to fill in the caps of my knowledge.
 
 Overall I think I was pretty successful.
